@@ -16,3 +16,5 @@ Python · GDAL · Rasterio · NumPy · Matplotlib · Pandas · MaxFlow · TQDM
 ## 🚀 Run
 ```bash
 python main.py
+
+![Cloud Area](Cloud%20Area%20Time%20Series.png)
