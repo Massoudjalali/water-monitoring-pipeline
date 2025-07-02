@@ -18,5 +18,5 @@ Python · GDAL · Rasterio · NumPy · Matplotlib · Pandas · MaxFlow · TQDM
 python main.py
 ```
 ![Water Area](Water%20Area%20Time%20Series.png)
-![Binary Water Area](Binary%Water%20Area%20Time%20Series.png)
+![Binary Water Area](Binary%20Water%20Area%20Time%20Series.png)
 ![Cloud Area](Cloud%20Area%20Time%20Series.png)
