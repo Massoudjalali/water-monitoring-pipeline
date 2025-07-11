@@ -1,4 +1,4 @@
-# Global WaterPack EO Processing Pipeline
+# Satellite-Based Surface Water Monitoring
 
 A Python-based project for automated extraction and analysis of surface water extent from EO satellite imagery using the DLR Global WaterPack product.
 
